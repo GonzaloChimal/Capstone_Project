@@ -8,7 +8,9 @@ En este estudio de caso, utilicé los datos de una empresa ficticia de alquiler 
 
 Para analizar los datos históricos de viajes de Cyclystics, utilicé los datos de viajes de Cyclystic de los 12 meses anteriores extraídos de [divvy trip database](https://divvy-tripdata.s3.amazonaws.com/index.html). . Los conjuntos de datos contienen 13 columnas.
 
-![download](https://user-images.githubusercontent.com/105673465/186822412-807f4511-3e11-40fd-aa87-8970215e2fc0.png)
+
+![186822412-807f4511-3e11-40fd-aa87-8970215e2fc0](https://user-images.githubusercontent.com/27865066/187346180-61d2cebf-f3d0-432f-9106-ac05f083a72f.png)
+
 
 ## Proceso
 
@@ -65,25 +67,31 @@ Usé esto para crear visualizaciones sobre la información recopilada a través 
 ## Análisis
 
 * Encontré que de los 4.641.279 viajes los afiliados representaron 2.596.985 viajes (55,95%) y los eventuales 2.044.294 viajes (44,05%).
-![download](https://user-images.githubusercontent.com/105673465/186812991-fc5c8fc9-ad9f-4e58-8a19-3c27600b3a1c.png)
+![186812991-fc5c8fc9-ad9f-4e58-8a19-3c27600b3a1c](https://user-images.githubusercontent.com/27865066/187346276-557dac49-b2ce-492c-83a8-ef9bab43a212.png)
+
 
 * La duración media de un viaje para todos los cíclicos fue de 21,36 minutos, 32,05 para los casuales y 12,94 para los socios.
-![download](https://user-images.githubusercontent.com/105673465/186813008-04f72dd0-b3c8-4432-9889-70aadcfa203c.png)
+![186813008-04f72dd0-b3c8-4432-9889-70aadcfa203c](https://user-images.githubusercontent.com/27865066/187346322-822a80e6-5c9d-4691-bbc8-a37d345b559c.png)
+
 
 * De los tres tipos de bicicletas, la mayoría de los ciclistas casuales y los miembros usaban bicicletas clásicas.
-![download](https://user-images.githubusercontent.com/105673465/186813027-b84d373e-d46b-4f55-822e-1024b63930de.png)
+![186813027-b84d373e-d46b-4f55-822e-1024b63930de](https://user-images.githubusercontent.com/27865066/187346360-6f13fa36-6801-4441-877d-784ed14f3cfc.png)
+
 
 * Julio y Agosto son los meses con la mayor cantidad de viajes, siendo Julio el más alto para los casuales y Agosto el más alto para los miembros. Enero y Febrero son los meses con la menor cantidad de viajes para todos.
-![download](https://user-images.githubusercontent.com/105673465/186813055-8d4505bb-1137-419c-be05-7dde5611a769.png)
+![186813055-8d4505bb-1137-419c-be05-7dde5611a769](https://user-images.githubusercontent.com/27865066/187346410-6c1ab469-878c-41d6-80b0-7ab9bb697f31.png)
+
 
 * Los fines de semana son los horarios de viaje más populares para los pasajeros ocasionales, mientras que los días de semana son los más populares para los miembros.
-![download](https://user-images.githubusercontent.com/105673465/186813067-70ddd363-a843-4af5-9b05-8f4bd9a7c3e9.png)
+![186813067-70ddd363-a843-4af5-9b05-8f4bd9a7c3e9](https://user-images.githubusercontent.com/27865066/187346425-32c8f827-6225-4b27-a52c-25c74d50e210.png)
+
 
 * Las estaciones más populares para los pasajeros ocasionales son 
-![download](https://user-images.githubusercontent.com/105673465/186812667-df1ffd17-e27c-489c-a912-fff61c3a36bd.png)
+![186812667-df1ffd17-e27c-489c-a912-fff61c3a36bd](https://user-images.githubusercontent.com/27865066/187346481-4bb194c2-6820-4518-a89d-cad3d635903a.png)
+
 
 * Las estaciones más populares para los miembros son
-![download](https://user-images.githubusercontent.com/105673465/186812732-ee250cdb-d4df-4dc9-9ce8-b8f9802026c7.png)
+![186812732-ee250cdb-d4df-4dc9-9ce8-b8f9802026c7](https://user-images.githubusercontent.com/27865066/187346501-a9c7c24f-6364-45bf-a083-bd000ac8b6a4.png)
 
 
 ## Conclusión
